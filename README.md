@@ -1,9 +1,9 @@
-# r2r-resources
-
 ## Design
 ### Tools
 - Figma
+
 ### Education
+- https://github.com/gztchan/awesome-design 
 
 ### Inspiration
 - CollectUI
@@ -12,10 +12,12 @@
 - DailyUI
 
 ## Engineering
+
 ### Tools
 - Atom
 
 ### Education
+
 #### React.js
 - react.christmas
 - react.holiday
